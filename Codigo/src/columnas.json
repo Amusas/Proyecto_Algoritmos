@@ -1,0 +1,20 @@
+{
+    "Authors": "Authors",
+    "Title": ["Title", "Document Title"],
+    "Year": ["Year", "Publication Year"],
+    "Volume": "Volume",
+    "Start Page": ["Start Page", "Page start"],
+    "End Page": ["End Page", "Page end"],
+    "Abstract": "Abstract",
+    "DOI": "DOI",
+    "Keywords": "Author Keywords",
+    "Publisher": "Publisher",
+    "ISSN": "ISSN",
+    "ISBN": ["ISBN", "ISBNs"],
+    "Affiliations": ["Affiliations", "Author Affiliations"],
+    "Publication Title": ["Publication Title", "Source title"],
+    "Document Type": "Document Type",
+    "Article Citation Count": ["Article Citation Count", "Cited by"],
+    "Link": ["PDF Link", "Link"],
+    "Database": "source"
+}

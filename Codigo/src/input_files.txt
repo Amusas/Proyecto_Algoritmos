@@ -1,0 +1,30 @@
+../Bases/Scopus/scopus.csv,Scopus
+../Bases/IEEE/IEEE1.csv,IEEE
+../Bases/IEEE/IEEE2.csv,IEEE
+../Bases/IEEE/IEEE3.csv,IEEE
+../Bases/IEEE/IEEE4.csv,IEEE
+../Bases/IEEE/IEEE5.csv,IEEE
+../Bases/ScienceDirect/ScienceDirect(1).bib,ScienceDirect
+../Bases/ScienceDirect/ScienceDirect(2).bib,ScienceDirect
+../Bases/ScienceDirect/ScienceDirect(3).bib,ScienceDirect
+../Bases/ScienceDirect/ScienceDirect(4).bib,ScienceDirect
+../Bases/ScienceDirect/ScienceDirect(5).bib,ScienceDirect
+../Bases/ScienceDirect/ScienceDirect(6).bib,ScienceDirect
+../Bases/ScienceDirect/ScienceDirect(7).bib,ScienceDirect
+../Bases/ScienceDirect/ScienceDirect(8).bib,ScienceDirect
+../Bases/ScienceDirect/ScienceDirect(9).bib,ScienceDirect
+../Bases/ScienceDirect/ScienceDirect(10).bib,ScienceDirect
+../Bases/ScienceDirect/ScienceDirect(11).bib,ScienceDirect
+../Bases\SAGE\Sage (1).bib,SAGE
+../Bases\SAGE\Sage (2).bib,SAGE
+../Bases\SAGE\Sage (3).bib,SAGE
+../Bases\SAGE\Sage (4).bib,SAGE
+../Bases\SAGE\Sage (5).bib,SAGE
+../Bases\taylor_y_francis\taylor_francis (1).bib,Taylor&Francis
+../Bases\taylor_y_francis\taylor_francis (2).bib,Taylor&Francis
+../Bases\taylor_y_francis\taylor_francis (3).bib,Taylor&Francis
+../Bases\taylor_y_francis\taylor_francis (4).bib,Taylor&Francis
+../Bases\taylor_y_francis\taylor_francis (5).bib,Taylor&Francis
+../Bases\taylor_y_francis\taylor_francis (6).bib,Taylor&Francis
+../Bases\taylor_y_francis\taylor_francis (7).bib,Taylor&Francis
+
