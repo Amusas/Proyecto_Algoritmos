@@ -1,0 +1,13 @@
+algoritmo,t(n)
+TimSort,12.76778
+CombSort,11.21482
+SelectionSort,1620.1902
+TreeSort,1016.31178
+QuickSort,2600.5055
+BucketSort,8.1913
+PigeOnHole Sort,2.92238
+HeapSort,25.50448
+BitonicSort,47.85488
+GnomeSort,1.03476
+Binary Insertion Sort,537.44892
+RadixSort,15.70456
